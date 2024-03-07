@@ -1,0 +1,7 @@
+{
+    "name": "minimal-smoothness-obsidian-theme",
+    "version": "0.1.00",
+	"scripts": {
+		"version": "node version-bump.mjs && git add manifest.json versions.json"
+	}
+}
